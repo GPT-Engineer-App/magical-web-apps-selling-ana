@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ana's Magical Web Apps</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="page-overview theme-light" data-component-list="AllAccessPassL1 DeviceAnim FocusManager PageXpController TextAnim">
+    <nav id="ac-localnav" class="no-js avail ac-localnav-light" lang="en" dir="ltr" data-sticky data-analytics-activitymap-region-id="local nav" role="navigation" aria-label="Local">
+      <div class="ac-ln-wrapper">
+        <div class="ac-ln-background"></div>
+        <div class="ac-ln-content">
+          <div class="ac-ln-title">
+            <a href="/" data-analytics-title="product index">Ana's Magical Web Apps</a>
+          </div>
+          <div class="ac-ln-menu">
+            <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open" role="button"> <span class="ac-ln-menucta-anchor-label">Local Nav - Open Menu</span> </a>
+            <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close" role="button"> <span class="ac-ln-menucta-anchor-label">Local Nav - Close Menu</span> </a>
+            <div class="ac-ln-menu-tray">
+              <ul class="ac-ln-menu-items">
+                <li class="ac-ln-menu-item">
+                  <span class="ac-ln-menu-link current" role="link" aria-disabled="true" aria-current="page">Overview</span>
+                </li>
+                <li class="ac-ln-menu-item">
+                  <a href="/features" class="ac-ln-menu-link" data-analytics-title="features">Features</a>
+                </li>
+                <li class="ac-ln-menu-item">
+                  <a href="/pricing" class="ac-ln-menu-link" data-analytics-title="pricing">Pricing</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main id="main" class="main" role="main" data-page-type="overview">
+      <section class="section section-hero" data-analytics-section-engagement="name:hero">
+        <div class="hero">
+          <div class="hero-content">
+            <h1 class="hero-headline">Unleash the Magic of Web Apps</h1>
+            <p class="hero-subhead">Discover Ana's enchanting collection of web apps that will transform your online experience.</p>
+            <div class="cta-links">
+              <a href="/pricing" class="cta-link cta-link-primary" data-analytics-title="buy now">Buy Now</a>
+              <a href="/features" class="cta-link" data-analytics-title="learn more">Learn More</a>
+            </div>
+          </div>
+          <div class="hero-image">
+            <figure>
+              <img src="hero-image.jpg" alt="Ana's Magical Web Apps" />
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-features" data-analytics-section-engagement="name:features">
+        <div class="section-content">
+          <h2 class="section-headline">Magical Features</h2>
+          <div class="feature-list">
+            <div class="feature">
+              <div class="feature-icon">
+                <img src="feature1-icon.svg" alt="Feature 1 Icon" />
+              </div>
+              <h3 class="feature-title">Enchanting Design</h3>
+              <p class="feature-description">Experience the beauty of meticulously crafted web apps that captivate your senses.</p>
+            </div>
+            <div class="feature">
+              <div class="feature-icon">
+                <img src="feature2-icon.svg" alt="Feature 2 Icon" />
+              </div>
+              <h3 class="feature-title">Seamless Functionality</h3>
+              <p class="feature-description">Enjoy smooth and intuitive interactions that make using our web apps a breeze.</p>
+            </div>
+            <div class="feature">
+              <div class="feature-icon">
+                <img src="feature3-icon.svg" alt="Feature 3 Icon" />
+              </div>
+              <h3 class="feature-title">Powerful Performance</h3>
+              <p class="feature-description">Harness the power of cutting-edge technology for lightning-fast performance.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-cta" data-analytics-section-engagement="name:cta">
+        <div class="section-content">
+          <h2 class="section-headline">Ready to Experience the Magic?</h2>
+          <p class="section-subhead">Start your journey with Ana's Magical Web Apps today.</p>
+          <div class="cta-links">
+            <a href="/pricing" class="cta-link cta-link-primary" data-analytics-title="get started">Get Started</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <p>&copy; 2023 Ana's Magical Web Apps. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
